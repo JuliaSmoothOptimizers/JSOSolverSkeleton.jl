@@ -1,8 +1,9 @@
 # this package
-using JSOSolverTemplate
+using JSOSolverSkeleton
 
+using ADNLPModels
 using Logging
-using NLPModels
+using SolverTest
 using Test
 
-include("unc.jl")
+include("simple-unc-solver.jl")
