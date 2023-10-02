@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier
+AddMacToCI: true
+AddWinToCI: true
+AuthorEmail: abel.s.siqueira@gmail.com
+AuthorName: Abel Soares Siqueira
+JuliaMinVersion: '1.6'
+License: MIT
+PackageName: JSOSolverSkeleton
+PackageOwner: JuliaSmoothOptimizers
+PackageUUID: c81ce882-e686-4888-976a-ce42bb892d34
+RunJuliaNightlyOnCI: true
+UseCirrusCI: true
+_commit: v0.2.2
+_src_path: https://github.com/abelsiqueira/COPIERTemplate.jl
