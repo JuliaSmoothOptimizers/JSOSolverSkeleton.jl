@@ -8,7 +8,6 @@
 [![Test workflow status](https://github.com/JuliaSmoothOptimizers/JSOSolverSkeleton.jl/actions/workflows/Test.yml/badge.svg?branch=main)](https://github.com/JuliaSmoothOptimizers/JSOSolverSkeleton.jl/actions/workflows/Test.yml?query=branch%3Amain)
 [![Lint workflow Status](https://github.com/JuliaSmoothOptimizers/JSOSolverSkeleton.jl/actions/workflows/Lint.yml/badge.svg?branch=main)](https://github.com/JuliaSmoothOptimizers/JSOSolverSkeleton.jl/actions/workflows/Lint.yml?query=branch%3Amain)
 [![Docs workflow Status](https://github.com/JuliaSmoothOptimizers/JSOSolverSkeleton.jl/actions/workflows/Docs.yml/badge.svg?branch=main)](https://github.com/JuliaSmoothOptimizers/JSOSolverSkeleton.jl/actions/workflows/Docs.yml?query=branch%3Amain)
-[![Build Status](https://api.cirrus-ci.com/github/JuliaSmoothOptimizers/JSOSolverSkeleton.jl.svg)](https://cirrus-ci.com/github/JuliaSmoothOptimizers/JSOSolverSkeleton.jl)
 [![Coverage](https://codecov.io/gh/JuliaSmoothOptimizers/JSOSolverSkeleton.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/JuliaSmoothOptimizers/JSOSolverSkeleton.jl)
 [![DOI](https://zenodo.org/badge/DOI/FIXME)](https://doi.org/FIXME)
 <!-- markdown-link-check-enable -->
